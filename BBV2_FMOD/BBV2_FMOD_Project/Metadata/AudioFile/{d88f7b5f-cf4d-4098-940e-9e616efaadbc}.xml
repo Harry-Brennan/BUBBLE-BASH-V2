@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{d88f7b5f-cf4d-4098-940e-9e616efaadbc}">
+		<property name="assetPath">
+			<value>Character VFX/Delfate1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.78125</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a02d1558-4d01-482d-bf21-fc3ba4de6094}</destination>
+		</relationship>
+	</object>
+</objects>

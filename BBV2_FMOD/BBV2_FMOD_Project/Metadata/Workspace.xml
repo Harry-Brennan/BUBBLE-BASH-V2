@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Workspace" id="{765f8732-4370-49d9-8cdf-84d31f6923be}">
 		<property name="builtBanksOutputDirectory">
-			<value>../../BBV2_Project/Content/Assets/SFX</value>
+			<value>../../BBV2_Project/Content/FMOD</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{de92c010-6b45-4c8f-90d8-a080d19ddbc4}</destination>

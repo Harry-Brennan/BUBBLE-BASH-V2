@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{27c3a546-4867-40c1-9eed-2605892d71f5}">
+		<property name="assetPath">
+			<value>Character Voices/Character 2/GeneralTalking1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.0350625</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a02d1558-4d01-482d-bf21-fc3ba4de6094}</destination>
+		</relationship>
+	</object>
+</objects>
